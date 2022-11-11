@@ -1,0 +1,53 @@
+.maintext{
+ text-align: center;  
+color: aliceblue;
+text-shadow: rgb(192, 159, 29) 1px 0 10px;
+}
+nav li {
+    display: inline;
+    font-size: 22px;
+    margin-right: 8px;
+    
+}
+
+.general {
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.photo {
+width: 800px;
+margin-right: 1600px;
+
+}
+
+.body{
+    width: 100%;
+    height: 1000px;
+
+    background-color: black;
+
+}
+.data{
+    color: aliceblue;
+    margin-left: 20%;
+    margin-top: -16%;
+    font-size: 22px;
+    text-shadow: #FC0 1px 0 10px;
+}
+
+a{
+    color: aliceblue;
+    text-shadow: #FC0 1px 0 10px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.photo > img{
+
+    width: 900px;
+}
+
+
